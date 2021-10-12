@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Owls
+build_property.ProjectDir = /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/

@@ -8,7 +8,6 @@
 /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/bin/Debug/net5.0/Owls.pdb
 /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/bin/Debug/net5.0/Owls.Views.dll
 /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/bin/Debug/net5.0/Owls.Views.pdb
-/Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/obj/Debug/net5.0/Owls.csprojAssemblyReference.cache
 /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/obj/Debug/net5.0/Owls.GeneratedMSBuildEditorConfig.editorconfig
 /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/obj/Debug/net5.0/Owls.AssemblyInfoInputs.cache
 /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/obj/Debug/net5.0/Owls.AssemblyInfo.cs
@@ -37,3 +36,4 @@
 /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/obj/Debug/net5.0/Owls.pdb
 /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/obj/Debug/net5.0/Owls.genruntimeconfig.cache
 /Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/obj/Debug/net5.0/Owls.csproj.CopyComplete
+/Users/joshthomeczek/Github Stuff/DBWS/csci340lab7/Owls/Owls/obj/Debug/net5.0/Owls.csproj.AssemblyReference.cache

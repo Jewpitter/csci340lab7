@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{3749C801-F9A1-407E-9B07-EFA9845B8650}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Owls/Models/Owls.cs">
+    <Files>
+      <File FileName="Owls/Pages/Index.cshtml" Line="11" Column="1" />
+      <File FileName="Owls/Models/Owls.cs" Line="15" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Owls" expanded="True">
+            <Node name="Owls" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Hoot" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Owls FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Owls PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
